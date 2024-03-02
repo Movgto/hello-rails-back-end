@@ -10,12 +10,13 @@
 
 - [📖 About the Project](#about-project)
 - [🛠 Built With](#built-with)
-- [Key Features](#key-features)
-- [Future Features](#future-features)
+  - [Teck Stack](#tech-stack)
+  - [Key Features](#key-features)
+  - [Future Features](#future-features)
 - [💻 Getting Started](#getting-started)
-- [Setup](#setup)
-- [Prerequisites](#prerequisites)
-- [Usage](#usage)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Usage](#usage)
 - [👥 Authors](#authors)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show Your Support](#support)
@@ -27,7 +28,11 @@ Hello Rails serves as the back-end API for a React front-end.
 
 ## 🛠 Built With <a name="built-with"></a>
 
-- Ruby on Rails.
+### Tech Stack <a name="tech-stack"></a>
+
+<ul>
+  <li>Ruby on Rails</li>
+</ul>
 
 ##  Key Features <a name="key-features"></a>
 
